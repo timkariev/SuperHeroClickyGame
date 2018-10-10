@@ -1,0 +1,17 @@
+.title {
+  color: rgb(233, 10, 10);
+  width: 100%;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.wrapper { 
+  background-color: black;
+
+}
+
+.score {
+
+  color: red;
+}
+
